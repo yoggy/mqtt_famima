@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 #  -*- encoding: utf-8 -*-
 #
-# mqtt_famima.rb - MQTT subscribe example
+# mqtt_famima.rb - simple example of how to subscribe topic using MQTT library
 #
 #   $ sudo gem install mqtt
 #   $ sudo gem install pit
